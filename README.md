@@ -20,3 +20,25 @@ The dataset consists of time-series accelerometer and gyroscope readings capture
 - Achieved an accuracy of **[96.67]% using Linear SVC** on the test set  
 - Confusion matrix indicates strong classification performance across most activity classes  
 - Visualizations provide insight into data distribution and model predictions
+
+## 📄 Capstone Report
+
+This project was developed as a capstone project for the B.Tech program at SRM University-AP under the guidance of Dr. Pandu Sowkuntla.
+
+📘 [Click here to read the full technical report (PDF)](docs/CAPSTONE_PROJECT_REPORT.pdf)
+
+### Summary of the Report
+
+- **Title**: Human Activity Recognition Using Smartphones  
+- **Team Members**: Padala Saket Sai, Penubothu Gautham Sai Swaroop, Singamaneni Sriram, Kondavaradala Deepak Manidra  
+- **Advisor**: Dr. Pandu Sowkuntla  
+- **Institution**: SRM University AP, Computer Science & Engineering  
+- **Submission Date**: May 2024
+
+### Key Highlights
+
+- Used smartphone sensor data (accelerometer & gyroscope) to classify 6 activities.
+- Trained and compared multiple models: Logistic Regression, SVM (Linear & RBF), Decision Trees, and Random Forest.
+- Achieved ~96% accuracy using SVM and Random Forest with hyperparameter tuning.
+- Included data preprocessing, feature engineering (561 features), and t-SNE visualizations.
+- Demonstrated applications in healthcare, activity monitoring, and smart devices.
