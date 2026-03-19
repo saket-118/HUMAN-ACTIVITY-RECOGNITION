@@ -21,11 +21,11 @@ The dataset consists of time-series accelerometer and gyroscope readings capture
 - Confusion matrix indicates strong classification performance across most activity classes  
 - Visualizations provide insight into data distribution and model predictions
 
-## 📄 Capstone Report
+## Capstone Report
 
 This project was developed as a capstone project for the B.Tech program at SRM University-AP under the guidance of Dr. Pandu Sowkuntla.
 
-📘 [Click here to read the full technical report (PDF)](CAPSTONE_PROJECT_REPORT.pdf)
+[Click here to read the full technical report (PDF)](CAPSTONE_PROJECT_REPORT.pdf)
 
 ### Summary of the Report
 
